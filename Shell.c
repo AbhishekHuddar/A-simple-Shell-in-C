@@ -1,10 +1,4 @@
-/*
-Name       :Huddar, Abhishek
-Project    :PA1(Programming)
-Instructor :Feng Chen
-Class      :cs7103-au18
-Logon ID   :cs710324
-*/
+
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/types.h>
